@@ -37,3 +37,9 @@ If you are hosting your 'completed' version of this activity on your personal Gi
 
 ***
 CE Note: This activity can be found in 7.3.2, 7.3.3, 7.3.5, 7.3.6, and 7.3.10
+
+
+ArtistView: artistData
+We need to send an artistId to this component to generate results for that artist's music
+AlbumView: albumData
+We need to send an albumId to this component to populate the songs in that album.
